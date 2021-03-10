@@ -31,3 +31,4 @@ ver "MATERIA COMPILADORES" ;
 }
 fin ;
 ```
+![Programa](https://user-images.githubusercontent.com/56012784/110583255-cc946000-8143-11eb-8ef6-5e3f58deaabf.png)
