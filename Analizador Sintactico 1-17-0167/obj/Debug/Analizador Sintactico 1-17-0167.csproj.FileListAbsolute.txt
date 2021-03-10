@@ -1,0 +1,10 @@
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Analizador Sintactico 1-17-0167\bin\Debug\Analizador Sintactico 1-17-0167.exe.config
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Analizador Sintactico 1-17-0167\bin\Debug\Analizador Sintactico 1-17-0167.exe
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Analizador Sintactico 1-17-0167\bin\Debug\Analizador Sintactico 1-17-0167.pdb
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Analizador Sintactico 1-17-0167\obj\Debug\Compiladores_2019.Form1.resources
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Analizador Sintactico 1-17-0167\obj\Debug\Analizador_Sintactico.Properties.Resources.resources
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Analizador Sintactico 1-17-0167\obj\Debug\Analizador Sintactico 1-17-0167.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Analizador Sintactico 1-17-0167\obj\Debug\Analizador Sintactico 1-17-0167.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Analizador Sintactico 1-17-0167\obj\Debug\Analizador Sintactico 1-17-0167.exe
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Analizador Sintactico 1-17-0167\obj\Debug\Analizador Sintactico 1-17-0167.pdb
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Analizador Sintactico 1-17-0167\obj\Debug\Analizador Sintactico 1-17-0167.csprojAssemblyReference.cache
