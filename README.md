@@ -3,6 +3,7 @@
 ## Documentacion
 generación de código: Al hacer clic en compilar se muestra un mensaje con la generación del código en c++ (el mismo se guarda en la carpeta raíz del programa)
 Este analizar reconoce las siguientes palabras:
+```
 1. inicio
 2. proceso
 3. fin
@@ -29,3 +30,4 @@ si ( var1 == "hola" )
 ver "MATERIA COMPILADORES" ;
 }
 fin ;
+```
